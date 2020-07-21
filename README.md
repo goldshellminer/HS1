@@ -10,13 +10,18 @@ https://www.goldshell.com/hs1-handshake-miner-intro/
 
 ### protocol: 
 
-docs/Goldshell-HS1_Serial communication protocol_V0.3.pdf
+docs/Goldshell-HS1_Serial communication protocol_V0.4.pdf
+
+### hs1 firmware: 
+firmware/firmware-Goldshell-HS1-0.0.3.bin  
+
+https://raw.githubusercontent.com/goldshellminer/HS1/master/firmware/firmware-Goldshell-HS1-0.0.3.bin  
 
 ### hs1 miner: 
 
-miner/Goldshell_Setup_1.0.1_windows.zip
+miner/Goldshell_Setup_1.0.3_windows.zip
  
- https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/Goldshell_Setup_1.0.1_windows.zip
+ https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/Goldshell_Setup_1.0.3_windows.zip
 
 
 alternative download:  
