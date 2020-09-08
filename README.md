@@ -19,9 +19,9 @@ https://raw.githubusercontent.com/goldshellminer/HS1/master/firmware/firmware-Go
 
 ### hs1 miner: 
 
-miner/Goldshell_Setup_1.0.3_windows.zip
+miner/Goldshell_Setup_1.0.4_windows.zip
  
- https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/Goldshell_Setup_1.0.3_windows.zip
+ https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/Goldshell_Setup_1.0.4_windows.zip
 
 
 alternative download:  
