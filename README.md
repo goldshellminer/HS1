@@ -15,7 +15,7 @@ HS1-PLUS: https://www.goldshell.com/hs1-plus-handshake-miner/
 docs/Goldshell-HS1-HS1PLUS_Serial_communication_protocol_V0.5.pdf
 
 ### HS1 firmware: 
-firmware/firmware-Goldshell-HS1-0.0.3.bin  
+firmware/firmware-Goldshell-HS1-0.0.4.bin  
 
 ### HS1-PLUS firmware: 
 firmware/firmware-Goldshell-HS1-PLUS-0.0.3.bin  
