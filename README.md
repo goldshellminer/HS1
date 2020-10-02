@@ -16,27 +16,31 @@ https://www.goldshell.com/hs1-plus-handshake-miner/
 
 docs/Goldshell-HS1& HS1PLUS Serial communication protocol_V0.6.pdf
 
-###Firmware:
+### Firmware:  
+
 HS1: firmware/HS1/firmware-Goldshell-HS1-0.0.4.bin
 
 HS1-PLUS: firmware/HS1-PLUS/firmware-Goldshell-HS1-PLUS-0.0.4.bin
 
 ### Miner Software:  
-#### Option1: Goldshell Miner(Windows)  
-miner/Goldshell_Setup_1.0.5_windows.zip
- 
- https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/Goldshell_Setup_1.0.5_windows.zip
+#### OPTION1: Goldshell Miner(Windows)  
+Developed by Goldshell Software Team  
+Quick Start:  
+https://www.goldshell.com/2020/06/23/goldshell-hs1-tutorial/  
 
-#### Option2: Handyminer(Windows,Linux,MacOS)
+Download:  
+https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/Goldshell_Setup_1.0.5_windows.zip
+
+#### OPTION2: Handyminer(Windows,Linux,MacOS)
 
 Developed by Handyminer Team (Alex Smith, Steven McKie, Thomas Costanzo)  
 
 Quick Start:   
 https://handyminer.github.io/HandyMiner-Goldshell-CLI/index.html
 
-Github:  
-https://github.com/HandyMiner/HandyMiner-Goldshell-GUI  
-https://github.com/HandyMiner/HandyMiner-Goldshell-CLI  
+Download:  
+GUI:  https://github.com/HandyMiner/HandyMiner-Goldshell-GUI  
+CLI:  https://github.com/HandyMiner/HandyMiner-Goldshell-CLI  
 
 ### windows driver:
 STM32 Virtual COM Port Driver 
