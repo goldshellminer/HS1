@@ -14,13 +14,13 @@ https://www.goldshell.com/hs1-plus-handshake-miner/
 
 ### Protocol: 
 
-docs/Goldshell-HS1& HS1PLUS Serial communication protocol_V0.6.pdf
+[docs/Goldshell-HS1& HS1PLUS Serial communication protocol_V0.6.pdf](https://github.com/goldshellminer/HS1/blob/master/docs/Goldshell-HS1%26%20HS1PLUS%20Serial%20communication%20protocol_V0.6.pdf)
 
 ### Firmware:  
 
-HS1: firmware/HS1/firmware-Goldshell-HS1-0.0.4.bin
+HS1: [firmware/HS1/firmware-Goldshell-HS1-0.0.4.bin](https://raw.githubusercontent.com/goldshellminer/HS1/master/firmware/HS1/firmware-Goldshell-HS1-0.0.4.bin)
 
-HS1-PLUS: firmware/HS1-PLUS/firmware-Goldshell-HS1-PLUS-0.0.4.bin
+HS1-PLUS: [firmware/HS1-PLUS/firmware-Goldshell-HS1-PLUS-0.0.4.bin](https://raw.githubusercontent.com/goldshellminer/HS1/master/firmware/HS1-PLUS/firmware-Goldshell-HS1-PLUS-0.0.4.bin)
 
 ### Miner Software:  
 #### OPTION1: Goldshell Miner(Windows)  
@@ -43,10 +43,10 @@ GUI:  https://github.com/HandyMiner/HandyMiner-Goldshell-GUI
 CLI:  https://github.com/HandyMiner/HandyMiner-Goldshell-CLI  
 
 ### windows driver:
-STM32 Virtual COM Port Driver 
-miner/serial_driver/STSW_STM32102_V1.5.0.rar  
+STM32 Virtual COM Port Driver:  
+[miner/serial_driver/STSW_STM32102_V1.5.0.rar](https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/serial_driver/STSW_STM32102_V1.5.0.rar)  
 
-https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/serial_driver/STSW_STM32102_V1.5.0.rar 
+
 
 
 
