@@ -22,12 +22,12 @@ HS1: firmware/HS1/firmware-Goldshell-HS1-0.0.4.bin
 HS1-PLUS: firmware/HS1-PLUS/firmware-Goldshell-HS1-PLUS-0.0.4.bin
 
 ### Miner Software:  
-####Option1: Goldshell Miner(Windows)  
+#### Option1: Goldshell Miner(Windows)  
 miner/Goldshell_Setup_1.0.5_windows.zip
  
  https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/Goldshell_Setup_1.0.5_windows.zip
 
-####Option2: Handyminer(Windows,Linux,MacOS)
+#### Option2: Handyminer(Windows,Linux,MacOS)
 
 Developed by Handyminer Team (Alex Smith, Steven McKie, Thomas Costanzo)  
 
