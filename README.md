@@ -29,7 +29,7 @@ Quick Start:
 https://www.goldshell.com/2020/06/23/goldshell-hs1-tutorial/  
 
 Download:  
-https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/Goldshell_Setup_1.0.5_windows.zip
+https://raw.githubusercontent.com/goldshellminer/HS1/master/miner/Goldshell_Setup_1.0.6_windows.zip
 
 #### OPTION2: Handyminer(Windows,Linux,MacOS)
 
